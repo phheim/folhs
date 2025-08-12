@@ -1,3 +1,3 @@
 # folhs
 
-This is a first-order logic library, designed when implementing the algorithm for solving [reactive program games](https://arxiv.org/abs/2305.16118). More information is comming soon.
+This is a first-order logic library designed for [rpgsolve](https://github.com/phheim/rpgsolve) which is now deprecated. If you need a similar functionality consider looking at [Issy](https://github.com/phheim/issy).
